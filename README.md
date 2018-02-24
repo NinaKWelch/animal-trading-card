@@ -1,4 +1,4 @@
-# animal-trading-card
+# ninas-animal-trading-card
 Project 1 - Animal Trading Card
 
 ## Project Webpage
