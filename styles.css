@@ -3,8 +3,7 @@ body {
   margin: 20px auto;
   width: 334px;
   background-color: #e1e2e3;
-  font-family: Verdana, Arial, sans-serif;
-  font-size: 14px;
+  font: 14px Verdana, Arial, sans-serif;
   color: #303030;
 }
 
