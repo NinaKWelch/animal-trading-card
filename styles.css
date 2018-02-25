@@ -32,6 +32,10 @@ body {
   list-style: none;
 }
 
+.card-text {
+  text-align: justify;
+}
+
 .align-left {
   padding-left: 0;
 }
