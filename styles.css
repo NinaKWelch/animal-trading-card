@@ -1,51 +1,63 @@
 /* Card Styles */
 body {
-	margin: 20px auto;
+  margin: 20px auto;
   width: 334px;
-	background-color: #e1e2e3;
-	font-family: Verdana, Arial, sans-serif;
-	font-size: 14px;
-	color: #303030;
+  background-color: #e1e2e3;
+  font-family: Verdana, Arial, sans-serif;
+  font-size: 14px;
+  color: #303030;
 }
+
 #card {
-	background-color: #fafbfc;
+  background-color: #fafbfc;
   padding: 15px;
 }
+
 .card-title {
-	font-size: 1.5em;
-	text-transform: uppercase;
+  font-size: 1.5em;
+  text-transform: uppercase;
 }
+
 .card-info {
   margin-top: 15px;
   padding: 5px 15px;
 }
+
 .card-intro {
   font-size: 1.1em;
-	color: #90b4d6;
+  color: #90b4d6;
 }
+
 .card-facts {
-	list-style: none;
+  list-style: none;
 }
+
 .align-left {
-	padding-left: 0;
+  padding-left: 0;
 }
+
 .align-center {
-	text-align: center;
+  text-align: center;
 }
+
 .text-bold {
-	font-weight: bold;
+  font-weight: bold;
 }
+
 .text-italic {
-	font-style: italic;
+  font-style: italic;
 }
+
 .border-box {
-	box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
 }
+
 .border-solid {
-	border: 1px solid #dbe2e9;
-	border-radius: 7px;
+  border: 1px solid #dbe2e9;
+  border-radius: 7px;
 }
+
 .divider {
-	border-bottom: 1px solid #dbe2e9;
+  border-bottom: 1px solid #dbe2e9;
   padding-bottom: 18px;
 }
